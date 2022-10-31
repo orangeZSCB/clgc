@@ -1,6 +1,6 @@
 # English
 Orange's "Sheep Sheep"
-This is a VERY~~simple~~abnormal three elimination game.It is very popular in China (it may be popular in YouTube). 
+This is a VERY ~~simple~~ abnormal three elimination game.It is very popular in China (it may be popular in YouTube). 
 At present, there is no English version. If you feel funny, give a free Star!
 Play method:
 1. Enter here: zsccodelnc.cn/clgc
@@ -13,7 +13,7 @@ Click the "rearrange(重新排序)" button to rearrange to find the same cards t
 Click "Restart Game(从头再来)"to restart game.
 enjoy!
 # 中文
-这是一个特别~~简单~~变态的三消小游戏。它在中国很受欢迎（可能也在YouTube上很受欢迎）。
+这是一个特别 ~~简单~~ 变态的三消小游戏。它在中国很受欢迎（可能也在YouTube上很受欢迎）。
 目前还没有英文版本。如果你觉得有趣，别忘记给一颗免费的Star！
 游玩方法：
 1.在浏览器输入：zsccodelnc.cn/clgc
