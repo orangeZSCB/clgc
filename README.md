@@ -49,3 +49,12 @@ enjoy!
 Enjoy！
 
 
+#### 中国镜像
+
+神马？你说Github加载太慢？
+
+那就快去Gitee试试吧！
+
+orangezscb.gitee.io/clgc
+
+（但是我觉得还是特别特别慢慢慢慢慢慢慢慢慢慢）
