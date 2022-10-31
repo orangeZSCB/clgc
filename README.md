@@ -17,7 +17,7 @@ Click "Restart Game(从头再来)"to restart game.
 
 enjoy!
 
-Please don't say I made it with ******* tools, or no one will be good.
+**Please don't say I made it with ******* tools, or no one will be good.**
 # 中文
 这是一个特别 ~~简单~~ 变态的三消小游戏。它在中国很受欢迎（可能也在YouTube上很受欢迎）。
 
