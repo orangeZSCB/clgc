@@ -6,12 +6,17 @@ Play method:
 1. Enter here: zsccodelnc.cn/clgc
 2. Wait for others to load
 3. Click the "Start Game(开始游戏)" button
-4. Click three identical blocks to eliminate. 
+4. Click three identical blocks to eliminate.  
 If the card slot is full and there are no bricks to eliminate, the game will fail! 
+
 Click the "rearrange(重新排序)" button to rearrange to find the same cards to eliminate! 
+
 (The dog in the lower left corner will humiliate you if you reorder more times)
+
 Click "Restart Game(从头再来)"to restart game.
+
 enjoy!
+
 Please don't say I made it with ******* tools, or no one will be good.
 # 中文
 这是一个特别 ~~简单~~ 变态的三消小游戏。它在中国很受欢迎（可能也在YouTube上很受欢迎）。
@@ -50,7 +55,7 @@ Please don't say I made it with ******* tools, or no one will be good.
 Enjoy！
 
 
-请不要说我是用*******工具做的，要不然谁都不会好。
+**请不要说我是用*******工具做的，要不然谁都不会好。**
 
 #### 中国镜像
 
